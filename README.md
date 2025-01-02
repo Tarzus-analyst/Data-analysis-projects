@@ -3,8 +3,6 @@
 ## Content
 [Project overview](#project-overview)
 
-[Results](results)
-
 [Data source](#data-source)
 
 [Tool](#tool)
@@ -14,6 +12,8 @@
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data analysis](#data-analysis)
+
+[Results](#results)
 
 [Dashboard preview](#dashboard-preview)
 
