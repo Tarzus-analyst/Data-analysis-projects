@@ -23,6 +23,8 @@
 
 This data analysis project aims to provide insights into the sales performance of a supermarket shop over 2021 to 2022. By analyzing various aspects of the financial data, we seek to identify trends, make data driven recommendations and gain a deeper understanding of the supermarket sales performance.
 
+
+
 ### Data source
 
 Financial data: The primary dataset used for this analysis is the "Sales_data.csv" file containing to sheet of data which are "Input Data" and "Master Data" containing information about each sales made.
