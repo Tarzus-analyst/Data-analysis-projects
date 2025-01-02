@@ -27,7 +27,9 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Data source
 
-Financial data: The primary dataset used for this analysis is the "Sales_data.csv" file containing to sheet of data which are "Input Data" and "Master Data" containing information about each sales made.
+Financial data: The primary dataset used for this analysis is the "Supermarket-sales-dataset-file.xlsx" file containing to sheet of data which are "Input Data" and "Master Data" containing information about each sales made.
+
+https://github.com/Tarzus-analyst/Data-analysis-projects/blob/main/Supermarket-sales-dataset-file.xlsx
 
 ### Tool
 
