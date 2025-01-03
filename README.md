@@ -63,9 +63,11 @@ The following opperation was carried out during this analysis
 
 ### Results
 
+[](Sales-by-month.png)
+
 ### Dashboard preview
 
-[Dashboard screen shot](https://github.com/Tarzus-analyst/Data-analysis-projects/blob/main/Supermarket%20dashboard%20preview.png)
+ []()
 
 ### Recommendation
 
