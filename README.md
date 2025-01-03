@@ -63,11 +63,80 @@ The following opperation was carried out during this analysis
 
 ### Results
 
-[](Sales-by-month.png)
+**KPIs**
 
+The KPIs analysis was derived a pivot table, the following are the overall result made during the two(2) of Sales
+  - The supermarket made $401,412 total sales during this period
+  - The supermarket made $68,908 of profit during this period
+  - And 21% of profit margin
+---
+
+![](KPY.png)
+
+---
+
+**Sales by Trends**
+
+The following trends give a detail insight of sales at peak of month
+  - the highest sales was made on January with $41,346.96 of total sales
+  - Followed by December and November with $37,097.98 and $36,124.07 of Sales made during this months
+---
+![](Sales-by-month-table.png)
+![](Sales-by-month.png)
+
+---
+
+**Top 10 Product by Sales**
+
+These give a list of the top 10 performing Product of the supermarket. The following Visual is table with the list and a bar chart for comparing 
+
+ 
+![](Top-10-product-table.png) | ![](Top-10-product.png)
+|------------------------------|------------------------------------|
+
+**Sales by category**
+
+The Top three category by sales are
+  - Category04 with $95,269.40 of total Sales
+  - Category02 with $92.963.87 of total Sales
+  - Category05 with $91,617.19 of total Sales
+---
+![](sales-by-category.png)
+
+---
+
+**Product and Category**
+
+The following are the Product and Category with the highest amount of Sales
+  - Product41 with $22,952
+  - Category04 with $95,269.40 of total Sales
+
+---
+![](Top-product-and-category.png)
+
+---
+
+**Percentage by Sales Type**
+
+  - Direct Sales with 55% of Sales
+  - Online with 33% of sales 
+  - Wholesaler with 15% of sales
+    
+---
+![](percentage-by-sales-type.png)
+
+---
+
+**Percentage by Payment Mode**
+  - Online with 50% of Sales
+  - Cash with 50% of Sales
+---
+![](percetage-by-payment-method.png)
+
+---
 ### Dashboard preview
 
- []()
+ ![](Supermarket-dashboard-preview.png)
 
 ### Recommendation
 
